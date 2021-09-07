@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-https://github.com/UVLV/TEST/blob/9a94a96155571ce7ec2ed532fd8fdc3fc2f9697e/index.html
+index.html
 
 You can use the [editor on GitHub](https://github.com/UVLV/TEST/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
