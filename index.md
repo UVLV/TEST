@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-https://www.google.fr/
+[Google] (https://www.google.fr/)
 
 You can use the [editor on GitHub](https://github.com/UVLV/TEST/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
